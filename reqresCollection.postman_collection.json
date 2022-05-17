@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "691f72d5-d292-40ee-8829-d9fe89d3d591",
+		"_postman_id": "5ab7ad6c-2260-4477-9061-32a9514f1428",
 		"name": "reqresCollection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -189,7 +189,9 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": null
+				"url": {
+					"raw": ""
+				}
 			},
 			"response": []
 		},
